@@ -1,1 +1,3 @@
 texticulo
+movlw ac
+andwf b'00000011'
