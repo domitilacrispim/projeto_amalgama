@@ -1,6 +1,7 @@
 Heroi: Hulk Rider
 
-Historia: Bruce Banner fez um contrato com Mephisto para tentar remover o hulk de se corpo. Ele conseguiu o que queria, mas Mephito aproveitou a oportunidade e utilizou o Hulk para criar seu Ghost Rider.
+Historia: Bruce Banner fez um contrato com Mephisto para tentar remover o hulk de se corpo. Ele conseguiu o que queria, mas Mephito aproveitou a oportunidade e utilizou 
+o Hulk para criar seu Ghost Rider.
 
 Poderes: Super Forca, Fator de Cura (Regeneracao), Imortalidade, Imunidade ao fogo, entre outros poderes especificos de cada personagem.
 
